@@ -238,7 +238,7 @@ An optimization-based system utilizing GIS and spatial analysis. It employs algo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/DigitalPathwaysDengue.git
+git clone https://github.com/25-26J-406/FinalResearch-Dengue.git
 cd DigitalPathwaysDengue
 ```
 
